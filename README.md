@@ -1,4 +1,4 @@
-🧬 FASTA Analizador de secuencia genética
+🧬 FASTA Analizador de secuencia genética  
 Herramienta Python para análisis básico de secuencias genéticas en formato FASTA.
 
 🚀 Uso Rápido
@@ -24,11 +24,11 @@ Visualización automática
 📁 Estructura
 
 proyecto/
-├── analisis_genes.py       # Script principal
-├── secuencias_ej/          # Archivos FASTA de entrada
-├── resultados/             # CSV con métricas generadas
-├── imagenes/               # Gráficos de análisis
-└── test/                   # Pruebas unitarias con Pytest
+├── analisis_genes.py       # Script principal  
+├── secuencias_ej/          # Archivos FASTA de entrada  
+├── resultados/             # CSV con métricas generadas  
+├── imagenes/               # Gráficos de análisis  
+└── test/                   # Pruebas unitarias con Pytest  
 
 ⚡ Comandos Útiles
 bash
@@ -40,8 +40,8 @@ python analisis_genes.py secuencia.fasta --output-csv resultados/mi_analisis.csv
 El proyecto incluye pruebas automatizadas con pytest para asegurar la calidad del análisis.
 
 📂 Estructura de tests
-test/
-└── test_analisis.py       # Tests unitarios y de integración
+test/  
+└── test_analisis.py       # Tests unitarios y de integración  
 
 🧪 Cobertura de tests
 
