@@ -23,7 +23,7 @@ Visualización automática
 
 📁 Estructura
 
-proyecto/
+proyecto/  
 ├── analisis_genes.py       # Script principal  
 ├── secuencias_ej/          # Archivos FASTA de entrada  
 ├── resultados/             # CSV con métricas generadas  
