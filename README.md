@@ -31,8 +31,7 @@ proyecto/
 └── test/                   # Pruebas unitarias con Pytest  
 
 ⚡ Comandos Útiles
-bash
-# Análisis con rutas personalizadas
+bash  
 python analisis_genes.py secuencia.fasta --output-csv resultados/mi_analisis.csv --output-image imagenes/mi_grafico.png
 
 ✅ Testing
