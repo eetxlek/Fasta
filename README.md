@@ -15,11 +15,11 @@ CSV con métricas: resultados/analisis.csv
 
 Gráfico GC: imagenes/grafica_gc.png
 
-🔧 Funciones
-Cálculo de contenido GC
-Detección de codones inicio/paro
-Traducción a proteína
-Visualización automática
+🔧 Funciones  
+Cálculo de contenido GC  
+Detección de codones inicio/paro  
+Traducción a proteína  
+Visualización automática  
 
 📁 Estructura
 
