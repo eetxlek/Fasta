@@ -43,20 +43,20 @@ El proyecto incluye pruebas automatizadas con pytest para asegurar la calidad de
 test/  
 └── test_analisis.py       # Tests unitarios y de integración  
 
-🧪 Cobertura de tests
+🧪 Cobertura de tests  
 
-test_calcular_gc: Verifica el cálculo correcto del contenido GC.
-test_traducir_proteina: Traduce una secuencia de nucleótidos a aminoácidos y verifica resultados esperados.
-test_contar_codones: Cuenta codones de inicio/parada correctamente en distintas secuencias.
-test_analisis_completo: Test de integración que verifica la ejecución completa del análisis y la generación de archivos.
-test_secuencia_invalida: Placeholder para manejar casos de secuencias con caracteres inválidos. Puedes completarlo según la lógica de validación que hayas implementado.
+test_calcular_gc: Verifica el cálculo correcto del contenido GC.  
+test_traducir_proteina: Traduce una secuencia de nucleótidos a aminoácidos y verifica resultados esperados.  
+test_contar_codones: Cuenta codones de inicio/parada correctamente en distintas secuencias.  
+test_analisis_completo: Test de integración que verifica la ejecución completa del análisis y la generación de archivos.  
+test_secuencia_invalida: Placeholder para manejar casos de secuencias con caracteres inválidos. Puedes completarlo según la lógica de validación que hayas implementado.  
 
 ▶️ Ejecutar tests
 
-Desde la raíz del proyecto:
+Desde la raíz del proyecto:  
 pytest test/test_analisis.py -v
 
-Asegúrate de tener instalado pytest:
+Asegúrate de tener instalado pytest:  
 pip install pytest
 
 ¡Listo para usar! Coloca tus archivos FASTA en secuencias_ej/ y ejecuta.
